@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "java-terminal_ddc6256e"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "GLEYSON",
+                "OLIVEIRA",
+                "34",
+                "1.65"
+            ]
+        }
+    ]
+}
